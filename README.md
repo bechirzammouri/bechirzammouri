@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning langChain and langGraph for building a llm application using RAG architecture.
 - 💞️ I’m looking to collaborate on a robotic project
   ## 📫 How to reach me ...
-    - via [linked in](https://www.linkedin.com/feed/)
+    - via [linked in](www.linkedin.com/in/béchir-zammouri-5090b4284)
     - via [email](mailto:bechir.zammouri@ensi-uma.tn) `bechir.zammouri@ensi-uma.tn`
   
     
