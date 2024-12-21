@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on a robotic project
   ## 📫 How to reach me ...
     - via [linked in](https://www.linkedin.com/feed/)
-    - via [email](mailto:bechir.zammouri@ensi-uma.tn)
+    - via [email](mailto:bechir.zammouri@ensi-uma.tn) `bechir.zammouri@ensi-uma.tn`
+  
     
 
 
